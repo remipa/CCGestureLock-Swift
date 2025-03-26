@@ -4,7 +4,7 @@
 //  Created by Hsuan-Chih Chuang on 11/04/2017.
 //  Copyright (c) 2017 Hsuan-Chih Chuang. All rights reserved.
 //
-
+import UIKit
 import Foundation
 
 public class CCGestureLockSensor {
